@@ -17,7 +17,7 @@ But the app on this site has a difference.
 
 The video on youtube uses pc server that is connected to RTL-SDR.
 
-This app can be worked standalone. 
+This app can work standalone. 
 
 Like this photo.
 
@@ -44,32 +44,35 @@ There are many kinds. I have used this one.
 ## How to install
 #### 1. To install SideQest to your pc.
 
-This app can't install from the oculus store.
+This app can't be installed from the oculus store.
 
-You can install any app with SideQest
+You can install any app with SideQest.
+
 Please see here for details.
 
 https://sidequestvr.com/
 
 #### 2. To install RTL-SDR driver with SideQest.
-This app needs to RTL-SDR driver.
+This app needs RTL-SDR driver.
 
 So you should install the driver before using the app.
 
 https://rtl-sdr-driver.en.aptoide.com/app
 
-please see here for details on how to install the apk file. 
+Please see here for details on how to install the apk file. 
 
 https://www.androidcentral.com/how-sideload-apps-oculus-quest
 
 #### 3. Check to work properly RTL-SDR with your quest2
 
- Install and run the following software in the same way. you need to connect RTL-SDR to quest2 with an OTG USB cable.
+Install and run the following software in the same way. 
+ 
+You need to connect RTL-SDR to quest2 with an OTG USB cable.
  
 
 https://github.com/demantz/RFAnalyzer
 
- This is the app for android. But it works on quest2.
+This is the app for android. But it works on quest2.
  
 #### 4.Install VR_RTLSDR_AVATAR
 
@@ -83,6 +86,6 @@ You can use the controllers as pointers by simply using the trigger button on th
 
 Then object can move with the stick.
 
-An X button can show the menu.
+The X button in the left controller can show the menu.
 
-An A button can select the frequency and gain.
+The A button in the right controller can select the frequency and gain.
